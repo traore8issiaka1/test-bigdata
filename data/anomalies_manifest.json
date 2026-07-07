@@ -1,0 +1,40 @@
+{
+  "customers": {
+    "telephones_formats_heterogenes": 5000,
+    "emails_manquants_ou_NA": 150,
+    "villes_casse_ou_accents_incoherents": 300,
+    "noms_avec_espaces_parasites": 100,
+    "dates_naissance_aberrantes": 25,
+    "doublons_exacts": 15,
+    "quasi_doublons_email_majuscules": 10
+  },
+  "products": {
+    "nb_produits": 632
+  },
+  "orders": {
+    "commandes_client_grossiste_C000001": 2500,
+    "commandes_client_inexistant": 100,
+    "montants_avec_suffixe_FCFA": 500,
+    "nb_commandes": 50000
+  },
+  "order_items": {
+    "nb_lignes": 112750
+  },
+  "payments": {
+    "statuts_casse_incoherente": 44079,
+    "montants_negatifs": 44,
+    "paiements_partiels_ecart_montant": 220,
+    "paiements_orphelins_order_id_inexistant": 132,
+    "doublons_at_least_once": 352,
+    "nb_paiements_total": 44563
+  },
+  "events": {
+    "evenements_en_retard_injectes": 3299,
+    "desordre_temporel": "tri par heure d'arrivée (bruit gaussien 90 s) — event_time non monotone"
+  },
+  "_meta": {
+    "seed": 42,
+    "scale": 0.1,
+    "description": "Comptes exacts des anomalies injectées — document ENSEIGNANT, ne pas distribuer aux étudiants."
+  }
+}

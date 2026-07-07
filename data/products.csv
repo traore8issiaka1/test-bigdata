@@ -1,0 +1,633 @@
+product_id,nom_produit,categorie,marque,prix_unitaire_fcfa,stock
+P00001,Hisense Informatique 0001,Informatique,Hisense,108000,91
+P00002,Nivea Maison & Cuisine 0002,Maison & Cuisine,Nivea,69500,376
+P00003,HP Électroménager 0003,Électroménager,HP,39000,538
+P00004,LG Beauté & Soins 0004,Beauté & Soins,LG,2000,270
+P00005,Teranga Home Informatique 0005,Informatique,Teranga Home,529000,61
+P00006,Lenovo Téléphonie 0006,Téléphonie,Lenovo,276000,712
+P00007,Itel Enfants & Jouets 0007,Enfants & Jouets,Itel,4500,432
+P00008,Samsung Beauté & Soins 0008,Beauté & Soins,Samsung,3000,18
+P00009,Infinix Mode Femme 0009,Mode Femme,Infinix,32000,459
+P00010,Tecno Mode Homme 0010,Mode Homme,Tecno,4500,739
+P00011,Tecno Enfants & Jouets 0011,Enfants & Jouets,Tecno,15000,14
+P00012,Nivea Sport & Loisirs 0012,Sport & Loisirs,Nivea,35500,629
+P00013,Nivea Mode Femme 0013,Mode Femme,Nivea,23000,301
+P00014,Penc Mi Informatique 0014,Informatique,Penc Mi,115500,566
+P00015,Adidas Maison & Cuisine 0015,Maison & Cuisine,Adidas,59000,22
+P00016,Itel Électroménager 0016,Électroménager,Itel,473000,725
+P00017,Royal Mode Homme 0017,Mode Homme,Royal,25000,773
+P00018,Hisense Maison & Cuisine 0018,Maison & Cuisine,Hisense,12500,439
+P00019,Infinix Enfants & Jouets 0019,Enfants & Jouets,Infinix,49500,172
+P00020,Royal Électroménager 0020,Électroménager,Royal,92000,120
+P00021,Royal Téléphonie 0021,Téléphonie,Royal,22500,551
+P00022,LG Mode Femme 0022,Mode Femme,LG,5500,634
+P00023,Infinix Maison & Cuisine 0023,Maison & Cuisine,Infinix,9500,539
+P00024,Tecno Maison & Cuisine 0024,Maison & Cuisine,Tecno,5000,394
+P00025,Penc Mi Enfants & Jouets 0025,Enfants & Jouets,Penc Mi,24500,617
+P00026,Infinix Électroménager 0026,Électroménager,Infinix,21000,589
+P00027,HP Sport & Loisirs 0027,Sport & Loisirs,HP,14000,268
+P00028,Royal Sport & Loisirs 0028,Sport & Loisirs,Royal,61500,621
+P00029,LG Épicerie 0029,Épicerie,LG,1000,147
+P00030,Kirène Enfants & Jouets 0030,Enfants & Jouets,Kirène,13000,656
+P00031,Lenovo Électroménager 0031,Électroménager,Lenovo,479000,424
+P00032,Sunu Tech Mode Homme 0032,Mode Homme,Sunu Tech,3500,597
+P00033,Lenovo Mode Femme 0033,Mode Femme,Lenovo,9500,555
+P00034,Samsung Mode Homme 0034,Mode Homme,Samsung,3500,76
+P00035,Dakar Style Informatique 0035,Informatique,Dakar Style,288000,604
+P00036,Royal Mode Homme 0036,Mode Homme,Royal,10500,627
+P00037,Teranga Home Mode Homme 0037,Mode Homme,Teranga Home,51000,39
+P00038,Samsung Sport & Loisirs 0038,Sport & Loisirs,Samsung,34500,180
+P00039,Nivea Téléphonie 0039,Téléphonie,Nivea,116000,602
+P00040,Dakar Style Sport & Loisirs 0040,Sport & Loisirs,Dakar Style,68000,288
+P00041,LG Sport & Loisirs 0041,Sport & Loisirs,LG,6000,89
+P00042,HP Informatique 0042,Informatique,HP,414000,683
+P00043,HP Enfants & Jouets 0043,Enfants & Jouets,HP,21000,419
+P00044,Tecno Sport & Loisirs 0044,Sport & Loisirs,Tecno,32500,315
+P00045,Adidas Sport & Loisirs 0045,Sport & Loisirs,Adidas,29000,444
+P00046,Penc Mi Sport & Loisirs 0046,Sport & Loisirs,Penc Mi,6000,319
+P00047,Hisense Épicerie 0047,Épicerie,Hisense,12000,101
+P00048,Tecno Mode Femme 0048,Mode Femme,Tecno,24000,449
+P00049,Penc Mi Beauté & Soins 0049,Beauté & Soins,Penc Mi,19000,771
+P00050,Sunu Tech Maison & Cuisine 0050,Maison & Cuisine,Sunu Tech,74500,761
+P00051,Adidas Informatique 0051,Informatique,Adidas,174500,510
+P00052,Samsung Téléphonie 0052,Téléphonie,Samsung,388500,130
+P00053,LG Sport & Loisirs 0053,Sport & Loisirs,LG,5500,179
+P00054,Adidas Électroménager 0054,Électroménager,Adidas,20500,252
+P00055,Teranga Home Électroménager 0055,Électroménager,Teranga Home,61500,40
+P00056,Hisense Informatique 0056,Informatique,Hisense,54500,112
+P00057,Tecno Mode Femme 0057,Mode Femme,Tecno,18500,620
+P00058,Dakar Style Beauté & Soins 0058,Beauté & Soins,Dakar Style,4000,343
+P00059,Dakar Style Enfants & Jouets 0059,Enfants & Jouets,Dakar Style,18500,673
+P00060,Itel Mode Femme 0060,Mode Femme,Itel,67000,49
+P00061,LG Mode Homme 0061,Mode Homme,LG,30000,72
+P00062,Tecno Sport & Loisirs 0062,Sport & Loisirs,Tecno,15000,551
+P00063,Samsung Électroménager 0063,Électroménager,Samsung,571000,205
+P00064,HP Téléphonie 0064,Téléphonie,HP,206500,180
+P00065,Samsung Téléphonie 0065,Téléphonie,Samsung,236500,513
+P00066,HP Épicerie 0066,Épicerie,HP,1000,730
+P00067,Royal Sport & Loisirs 0067,Sport & Loisirs,Royal,34000,335
+P00068,LG Informatique 0068,Informatique,LG,32000,610
+P00069,Infinix Électroménager 0069,Électroménager,Infinix,44500,274
+P00070,Adidas Épicerie 0070,Épicerie,Adidas,500,671
+P00071,Kirène Maison & Cuisine 0071,Maison & Cuisine,Kirène,38500,339
+P00072,Adidas Mode Femme 0072,Mode Femme,Adidas,3000,121
+P00073,HP Mode Homme 0073,Mode Homme,HP,11500,404
+P00074,Penc Mi Mode Homme 0074,Mode Homme,Penc Mi,21000,233
+P00075,Lenovo Sport & Loisirs 0075,Sport & Loisirs,Lenovo,10500,147
+P00076,Tecno Informatique 0076,Informatique,Tecno,93000,147
+P00077,Royal Épicerie 0077,Épicerie,Royal,15000,310
+P00078,Dakar Style Électroménager 0078,Électroménager,Dakar Style,429000,7
+P00079,Itel Électroménager 0079,Électroménager,Itel,371000,55
+P00080,LG Mode Homme 0080,Mode Homme,LG,28500,471
+P00081,Tecno Sport & Loisirs 0081,Sport & Loisirs,Tecno,9500,4
+P00082,Hisense Téléphonie 0082,Téléphonie,Hisense,19500,617
+P00083,Hisense Informatique 0083,Informatique,Hisense,144000,780
+P00084,HP Mode Homme 0084,Mode Homme,HP,48000,146
+P00085,Nivea Informatique 0085,Informatique,Nivea,55500,43
+P00086,Royal Mode Homme 0086,Mode Homme,Royal,5500,168
+P00087,Hisense Mode Femme 0087,Mode Femme,Hisense,39000,34
+P00088,Penc Mi Maison & Cuisine 0088,Maison & Cuisine,Penc Mi,24500,215
+P00089,Hisense Mode Homme 0089,Mode Homme,Hisense,10000,711
+P00090,LG Beauté & Soins 0090,Beauté & Soins,LG,25500,655
+P00091,Royal Enfants & Jouets 0091,Enfants & Jouets,Royal,13000,780
+P00092,Infinix Mode Femme 0092,Mode Femme,Infinix,61500,649
+P00093,Kirène Épicerie 0093,Épicerie,Kirène,2000,675
+P00094,Adidas Électroménager 0094,Électroménager,Adidas,90500,473
+P00095,Lenovo Épicerie 0095,Épicerie,Lenovo,500,111
+P00096,Itel Beauté & Soins 0096,Beauté & Soins,Itel,5000,615
+P00097,Penc Mi Informatique 0097,Informatique,Penc Mi,47500,511
+P00098,Tecno Enfants & Jouets 0098,Enfants & Jouets,Tecno,2000,769
+P00099,Samsung Sport & Loisirs 0099,Sport & Loisirs,Samsung,9000,557
+P00100,Adidas Mode Homme 0100,Mode Homme,Adidas,13000,436
+P00101,Hisense Maison & Cuisine 0101,Maison & Cuisine,Hisense,6500,617
+P00102,Infinix Enfants & Jouets 0102,Enfants & Jouets,Infinix,3000,524
+P00103,LG Téléphonie 0103,Téléphonie,LG,69500,90
+P00104,Penc Mi Téléphonie 0104,Téléphonie,Penc Mi,25000,489
+P00105,Hisense Sport & Loisirs 0105,Sport & Loisirs,Hisense,5000,312
+P00106,Nivea Électroménager 0106,Électroménager,Nivea,524000,130
+P00107,Samsung Épicerie 0107,Épicerie,Samsung,3000,220
+P00108,Dakar Style Sport & Loisirs 0108,Sport & Loisirs,Dakar Style,48500,667
+P00109,Infinix Enfants & Jouets 0109,Enfants & Jouets,Infinix,3500,523
+P00110,Itel Sport & Loisirs 0110,Sport & Loisirs,Itel,17000,46
+P00111,HP Enfants & Jouets 0111,Enfants & Jouets,HP,2500,274
+P00112,LG Maison & Cuisine 0112,Maison & Cuisine,LG,12500,548
+P00113,HP Informatique 0113,Informatique,HP,483000,407
+P00114,Kirène Électroménager 0114,Électroménager,Kirène,416500,620
+P00115,LG Épicerie 0115,Épicerie,LG,4000,501
+P00116,Tecno Électroménager 0116,Électroménager,Tecno,53000,29
+P00117,Hisense Enfants & Jouets 0117,Enfants & Jouets,Hisense,21000,692
+P00118,Samsung Épicerie 0118,Épicerie,Samsung,6000,456
+P00119,Itel Maison & Cuisine 0119,Maison & Cuisine,Itel,15500,736
+P00120,Adidas Informatique 0120,Informatique,Adidas,137500,176
+P00121,Adidas Informatique 0121,Informatique,Adidas,146500,554
+P00122,Royal Sport & Loisirs 0122,Sport & Loisirs,Royal,11500,23
+P00123,LG Mode Femme 0123,Mode Femme,LG,16500,125
+P00124,Kirène Mode Femme 0124,Mode Femme,Kirène,3500,706
+P00125,Tecno Téléphonie 0125,Téléphonie,Tecno,104500,711
+P00126,LG Mode Femme 0126,Mode Femme,LG,15500,763
+P00127,Itel Téléphonie 0127,Téléphonie,Itel,62500,163
+P00128,Tecno Informatique 0128,Informatique,Tecno,80000,713
+P00129,Nivea Enfants & Jouets 0129,Enfants & Jouets,Nivea,15000,42
+P00130,Tecno Sport & Loisirs 0130,Sport & Loisirs,Tecno,18000,320
+P00131,Adidas Enfants & Jouets 0131,Enfants & Jouets,Adidas,3000,349
+P00132,Kirène Enfants & Jouets 0132,Enfants & Jouets,Kirène,6500,633
+P00133,Penc Mi Enfants & Jouets 0133,Enfants & Jouets,Penc Mi,2500,547
+P00134,Royal Mode Femme 0134,Mode Femme,Royal,10500,287
+P00135,Itel Électroménager 0135,Électroménager,Itel,122500,119
+P00136,Royal Maison & Cuisine 0136,Maison & Cuisine,Royal,11500,292
+P00137,Nivea Maison & Cuisine 0137,Maison & Cuisine,Nivea,9500,239
+P00138,Hisense Mode Femme 0138,Mode Femme,Hisense,7500,536
+P00139,Hisense Mode Femme 0139,Mode Femme,Hisense,10500,64
+P00140,Infinix Électroménager 0140,Électroménager,Infinix,25500,328
+P00141,Kirène Mode Femme 0141,Mode Femme,Kirène,78500,494
+P00142,Kirène Enfants & Jouets 0142,Enfants & Jouets,Kirène,12000,517
+P00143,Dakar Style Mode Femme 0143,Mode Femme,Dakar Style,24000,566
+P00144,Nivea Beauté & Soins 0144,Beauté & Soins,Nivea,2500,229
+P00145,Infinix Enfants & Jouets 0145,Enfants & Jouets,Infinix,39000,415
+P00146,Royal Épicerie 0146,Épicerie,Royal,4500,78
+P00147,Teranga Home Sport & Loisirs 0147,Sport & Loisirs,Teranga Home,14500,355
+P00148,Infinix Téléphonie 0148,Téléphonie,Infinix,169500,785
+P00149,Lenovo Épicerie 0149,Épicerie,Lenovo,1500,678
+P00150,Sunu Tech Téléphonie 0150,Téléphonie,Sunu Tech,360500,498
+P00151,Teranga Home Téléphonie 0151,Téléphonie,Teranga Home,26500,335
+P00152,Hisense Mode Homme 0152,Mode Homme,Hisense,36500,720
+P00153,HP Mode Femme 0153,Mode Femme,HP,71500,353
+P00154,HP Informatique 0154,Informatique,HP,145500,610
+P00155,Hisense Beauté & Soins 0155,Beauté & Soins,Hisense,26500,461
+P00156,Lenovo Enfants & Jouets 0156,Enfants & Jouets,Lenovo,2500,17
+P00157,Nivea Maison & Cuisine 0157,Maison & Cuisine,Nivea,27500,563
+P00158,Samsung Enfants & Jouets 0158,Enfants & Jouets,Samsung,6500,714
+P00159,Samsung Épicerie 0159,Épicerie,Samsung,2000,621
+P00160,Tecno Épicerie 0160,Épicerie,Tecno,3000,491
+P00161,Dakar Style Informatique 0161,Informatique,Dakar Style,212000,32
+P00162,Sunu Tech Maison & Cuisine 0162,Maison & Cuisine,Sunu Tech,27000,18
+P00163,Samsung Téléphonie 0163,Téléphonie,Samsung,38500,680
+P00164,Sunu Tech Sport & Loisirs 0164,Sport & Loisirs,Sunu Tech,13000,379
+P00165,Infinix Épicerie 0165,Épicerie,Infinix,1500,361
+P00166,Tecno Informatique 0166,Informatique,Tecno,241000,512
+P00167,HP Beauté & Soins 0167,Beauté & Soins,HP,2000,724
+P00168,HP Informatique 0168,Informatique,HP,114000,349
+P00169,Teranga Home Beauté & Soins 0169,Beauté & Soins,Teranga Home,37500,429
+P00170,Samsung Mode Femme 0170,Mode Femme,Samsung,77000,446
+P00171,Teranga Home Épicerie 0171,Épicerie,Teranga Home,4000,380
+P00172,Kirène Électroménager 0172,Électroménager,Kirène,46500,525
+P00173,Hisense Sport & Loisirs 0173,Sport & Loisirs,Hisense,24500,156
+P00174,Royal Maison & Cuisine 0174,Maison & Cuisine,Royal,16500,298
+P00175,Nivea Sport & Loisirs 0175,Sport & Loisirs,Nivea,4500,375
+P00176,Sunu Tech Enfants & Jouets 0176,Enfants & Jouets,Sunu Tech,48500,415
+P00177,Itel Informatique 0177,Informatique,Itel,80500,394
+P00178,Teranga Home Téléphonie 0178,Téléphonie,Teranga Home,58500,334
+P00179,LG Maison & Cuisine 0179,Maison & Cuisine,LG,18500,715
+P00180,Sunu Tech Informatique 0180,Informatique,Sunu Tech,586000,640
+P00181,Teranga Home Mode Femme 0181,Mode Femme,Teranga Home,41500,709
+P00182,Kirène Beauté & Soins 0182,Beauté & Soins,Kirène,3000,475
+P00183,Penc Mi Maison & Cuisine 0183,Maison & Cuisine,Penc Mi,40000,389
+P00184,LG Téléphonie 0184,Téléphonie,LG,293500,344
+P00185,Dakar Style Beauté & Soins 0185,Beauté & Soins,Dakar Style,15500,694
+P00186,Itel Sport & Loisirs 0186,Sport & Loisirs,Itel,6000,532
+P00187,HP Téléphonie 0187,Téléphonie,HP,94000,683
+P00188,Dakar Style Mode Homme 0188,Mode Homme,Dakar Style,37000,679
+P00189,Penc Mi Mode Homme 0189,Mode Homme,Penc Mi,5500,758
+P00190,HP Mode Homme 0190,Mode Homme,HP,15000,436
+P00191,Teranga Home Mode Femme 0191,Mode Femme,Teranga Home,27000,289
+P00192,Royal Informatique 0192,Informatique,Royal,243500,726
+P00193,Teranga Home Beauté & Soins 0193,Beauté & Soins,Teranga Home,2000,169
+P00194,Hisense Téléphonie 0194,Téléphonie,Hisense,38500,258
+P00195,Adidas Téléphonie 0195,Téléphonie,Adidas,98000,755
+P00196,Royal Beauté & Soins 0196,Beauté & Soins,Royal,3000,571
+P00197,Infinix Épicerie 0197,Épicerie,Infinix,2000,467
+P00198,HP Sport & Loisirs 0198,Sport & Loisirs,HP,14500,424
+P00199,Teranga Home Mode Homme 0199,Mode Homme,Teranga Home,3000,373
+P00200,Royal Mode Homme 0200,Mode Homme,Royal,14000,717
+P00201,Nivea Mode Femme 0201,Mode Femme,Nivea,78500,329
+P00202,Tecno Téléphonie 0202,Téléphonie,Tecno,60000,383
+P00203,Tecno Maison & Cuisine 0203,Maison & Cuisine,Tecno,7000,67
+P00204,Nivea Informatique 0204,Informatique,Nivea,62000,91
+P00205,Samsung Sport & Loisirs 0205,Sport & Loisirs,Samsung,20000,163
+P00206,Infinix Mode Homme 0206,Mode Homme,Infinix,12000,239
+P00207,Adidas Mode Homme 0207,Mode Homme,Adidas,39500,233
+P00208,Teranga Home Mode Femme 0208,Mode Femme,Teranga Home,24500,533
+P00209,Kirène Informatique 0209,Informatique,Kirène,104500,441
+P00210,Hisense Électroménager 0210,Électroménager,Hisense,74500,3
+P00211,Teranga Home Électroménager 0211,Électroménager,Teranga Home,128500,413
+P00212,Adidas Épicerie 0212,Épicerie,Adidas,1500,65
+P00213,Teranga Home Informatique 0213,Informatique,Teranga Home,114000,434
+P00214,Itel Informatique 0214,Informatique,Itel,69500,40
+P00215,Adidas Électroménager 0215,Électroménager,Adidas,115500,61
+P00216,Sunu Tech Mode Femme 0216,Mode Femme,Sunu Tech,18000,660
+P00217,Teranga Home Maison & Cuisine 0217,Maison & Cuisine,Teranga Home,66500,7
+P00218,Kirène Mode Femme 0218,Mode Femme,Kirène,7000,777
+P00219,Infinix Beauté & Soins 0219,Beauté & Soins,Infinix,29500,370
+P00220,Adidas Beauté & Soins 0220,Beauté & Soins,Adidas,8500,660
+P00221,Samsung Informatique 0221,Informatique,Samsung,338000,154
+P00222,LG Téléphonie 0222,Téléphonie,LG,120000,373
+P00223,Tecno Maison & Cuisine 0223,Maison & Cuisine,Tecno,62000,713
+P00224,Penc Mi Enfants & Jouets 0224,Enfants & Jouets,Penc Mi,17000,61
+P00225,Penc Mi Téléphonie 0225,Téléphonie,Penc Mi,15500,344
+P00226,Samsung Enfants & Jouets 0226,Enfants & Jouets,Samsung,7000,98
+P00227,Sunu Tech Enfants & Jouets 0227,Enfants & Jouets,Sunu Tech,41000,281
+P00228,Kirène Sport & Loisirs 0228,Sport & Loisirs,Kirène,16500,776
+P00229,Kirène Beauté & Soins 0229,Beauté & Soins,Kirène,23000,435
+P00230,Hisense Mode Homme 0230,Mode Homme,Hisense,40500,267
+P00231,Teranga Home Beauté & Soins 0231,Beauté & Soins,Teranga Home,4500,502
+P00232,Teranga Home Téléphonie 0232,Téléphonie,Teranga Home,277500,225
+P00233,Nivea Électroménager 0233,Électroménager,Nivea,72000,65
+P00234,LG Mode Homme 0234,Mode Homme,LG,3000,452
+P00235,Penc Mi Beauté & Soins 0235,Beauté & Soins,Penc Mi,14500,593
+P00236,Tecno Électroménager 0236,Électroménager,Tecno,325500,143
+P00237,Lenovo Mode Femme 0237,Mode Femme,Lenovo,13000,110
+P00238,Tecno Sport & Loisirs 0238,Sport & Loisirs,Tecno,7000,478
+P00239,Penc Mi Enfants & Jouets 0239,Enfants & Jouets,Penc Mi,14500,309
+P00240,Tecno Épicerie 0240,Épicerie,Tecno,9000,748
+P00241,Penc Mi Téléphonie 0241,Téléphonie,Penc Mi,139000,285
+P00242,Adidas Beauté & Soins 0242,Beauté & Soins,Adidas,5000,313
+P00243,LG Mode Femme 0243,Mode Femme,LG,10000,455
+P00244,Royal Beauté & Soins 0244,Beauté & Soins,Royal,9000,782
+P00245,Tecno Sport & Loisirs 0245,Sport & Loisirs,Tecno,7500,551
+P00246,Penc Mi Mode Homme 0246,Mode Homme,Penc Mi,38000,532
+P00247,HP Beauté & Soins 0247,Beauté & Soins,HP,2000,640
+P00248,Kirène Épicerie 0248,Épicerie,Kirène,3500,652
+P00249,Sunu Tech Beauté & Soins 0249,Beauté & Soins,Sunu Tech,25000,421
+P00250,Nivea Beauté & Soins 0250,Beauté & Soins,Nivea,8500,229
+P00251,Adidas Enfants & Jouets 0251,Enfants & Jouets,Adidas,23000,124
+P00252,Sunu Tech Téléphonie 0252,Téléphonie,Sunu Tech,34000,453
+P00253,LG Mode Homme 0253,Mode Homme,LG,11500,556
+P00254,LG Mode Femme 0254,Mode Femme,LG,31000,293
+P00255,Teranga Home Téléphonie 0255,Téléphonie,Teranga Home,308000,383
+P00256,LG Mode Femme 0256,Mode Femme,LG,25000,356
+P00257,Lenovo Enfants & Jouets 0257,Enfants & Jouets,Lenovo,4500,471
+P00258,Tecno Sport & Loisirs 0258,Sport & Loisirs,Tecno,6500,654
+P00259,Lenovo Téléphonie 0259,Téléphonie,Lenovo,262500,354
+P00260,Itel Épicerie 0260,Épicerie,Itel,4500,415
+P00261,Penc Mi Sport & Loisirs 0261,Sport & Loisirs,Penc Mi,7000,333
+P00262,Nivea Épicerie 0262,Épicerie,Nivea,3500,241
+P00263,Lenovo Informatique 0263,Informatique,Lenovo,39500,561
+P00264,Sunu Tech Épicerie 0264,Épicerie,Sunu Tech,1000,493
+P00265,Hisense Téléphonie 0265,Téléphonie,Hisense,343000,419
+P00266,LG Téléphonie 0266,Téléphonie,LG,95500,235
+P00267,Dakar Style Mode Homme 0267,Mode Homme,Dakar Style,6500,694
+P00268,HP Épicerie 0268,Épicerie,HP,15500,643
+P00269,LG Épicerie 0269,Épicerie,LG,25000,594
+P00270,Dakar Style Maison & Cuisine 0270,Maison & Cuisine,Dakar Style,76500,652
+P00271,Lenovo Téléphonie 0271,Téléphonie,Lenovo,190500,381
+P00272,LG Épicerie 0272,Épicerie,LG,21500,502
+P00273,Tecno Électroménager 0273,Électroménager,Tecno,39000,171
+P00274,Penc Mi Sport & Loisirs 0274,Sport & Loisirs,Penc Mi,61500,626
+P00275,Kirène Électroménager 0275,Électroménager,Kirène,68000,14
+P00276,Royal Beauté & Soins 0276,Beauté & Soins,Royal,1500,406
+P00277,Nivea Téléphonie 0277,Téléphonie,Nivea,16500,164
+P00278,Sunu Tech Enfants & Jouets 0278,Enfants & Jouets,Sunu Tech,3500,476
+P00279,Kirène Téléphonie 0279,Téléphonie,Kirène,212500,225
+P00280,Hisense Enfants & Jouets 0280,Enfants & Jouets,Hisense,36000,771
+P00281,Adidas Enfants & Jouets 0281,Enfants & Jouets,Adidas,3000,94
+P00282,Teranga Home Informatique 0282,Informatique,Teranga Home,517000,657
+P00283,Itel Maison & Cuisine 0283,Maison & Cuisine,Itel,46500,535
+P00284,Penc Mi Mode Homme 0284,Mode Homme,Penc Mi,3500,796
+P00285,Lenovo Mode Homme 0285,Mode Homme,Lenovo,27000,260
+P00286,Samsung Mode Homme 0286,Mode Homme,Samsung,3500,564
+P00287,LG Électroménager 0287,Électroménager,LG,49000,24
+P00288,Nivea Enfants & Jouets 0288,Enfants & Jouets,Nivea,11000,541
+P00289,Dakar Style Téléphonie 0289,Téléphonie,Dakar Style,330500,349
+P00290,Infinix Mode Homme 0290,Mode Homme,Infinix,4000,581
+P00291,Nivea Mode Homme 0291,Mode Homme,Nivea,8500,627
+P00292,Royal Mode Femme 0292,Mode Femme,Royal,20000,389
+P00293,Royal Mode Homme 0293,Mode Homme,Royal,27500,271
+P00294,Kirène Maison & Cuisine 0294,Maison & Cuisine,Kirène,86500,570
+P00295,Penc Mi Enfants & Jouets 0295,Enfants & Jouets,Penc Mi,9000,721
+P00296,Hisense Maison & Cuisine 0296,Maison & Cuisine,Hisense,65000,287
+P00297,HP Électroménager 0297,Électroménager,HP,163000,682
+P00298,Sunu Tech Enfants & Jouets 0298,Enfants & Jouets,Sunu Tech,4000,355
+P00299,Sunu Tech Mode Femme 0299,Mode Femme,Sunu Tech,20000,711
+P00300,Infinix Mode Homme 0300,Mode Homme,Infinix,7500,519
+P00301,Hisense Maison & Cuisine 0301,Maison & Cuisine,Hisense,38000,534
+P00302,Penc Mi Enfants & Jouets 0302,Enfants & Jouets,Penc Mi,5000,550
+P00303,Royal Mode Homme 0303,Mode Homme,Royal,6500,645
+P00304,Kirène Électroménager 0304,Électroménager,Kirène,498000,689
+P00305,Itel Sport & Loisirs 0305,Sport & Loisirs,Itel,67500,311
+P00306,Teranga Home Mode Femme 0306,Mode Femme,Teranga Home,13000,596
+P00307,Itel Sport & Loisirs 0307,Sport & Loisirs,Itel,43500,554
+P00308,Samsung Mode Femme 0308,Mode Femme,Samsung,75500,473
+P00309,Dakar Style Téléphonie 0309,Téléphonie,Dakar Style,20500,179
+P00310,Sunu Tech Mode Homme 0310,Mode Homme,Sunu Tech,18500,372
+P00311,Lenovo Épicerie 0311,Épicerie,Lenovo,1500,163
+P00312,Infinix Enfants & Jouets 0312,Enfants & Jouets,Infinix,26500,109
+P00313,Sunu Tech Mode Homme 0313,Mode Homme,Sunu Tech,4000,754
+P00314,Samsung Maison & Cuisine 0314,Maison & Cuisine,Samsung,53000,579
+P00315,Royal Téléphonie 0315,Téléphonie,Royal,29500,439
+P00316,Infinix Électroménager 0316,Électroménager,Infinix,94500,353
+P00317,Royal Maison & Cuisine 0317,Maison & Cuisine,Royal,58500,57
+P00318,Samsung Téléphonie 0318,Téléphonie,Samsung,19000,280
+P00319,LG Sport & Loisirs 0319,Sport & Loisirs,LG,72000,157
+P00320,Hisense Enfants & Jouets 0320,Enfants & Jouets,Hisense,4000,430
+P00321,Sunu Tech Téléphonie 0321,Téléphonie,Sunu Tech,82500,369
+P00322,Dakar Style Beauté & Soins 0322,Beauté & Soins,Dakar Style,16500,770
+P00323,Teranga Home Mode Homme 0323,Mode Homme,Teranga Home,4500,676
+P00324,Nivea Maison & Cuisine 0324,Maison & Cuisine,Nivea,26500,480
+P00325,HP Épicerie 0325,Épicerie,HP,4000,716
+P00326,LG Téléphonie 0326,Téléphonie,LG,110000,263
+P00327,Nivea Maison & Cuisine 0327,Maison & Cuisine,Nivea,32500,90
+P00328,Adidas Informatique 0328,Informatique,Adidas,113000,448
+P00329,Sunu Tech Beauté & Soins 0329,Beauté & Soins,Sunu Tech,4000,49
+P00330,Sunu Tech Mode Femme 0330,Mode Femme,Sunu Tech,5500,754
+P00331,Samsung Beauté & Soins 0331,Beauté & Soins,Samsung,32500,97
+P00332,Penc Mi Sport & Loisirs 0332,Sport & Loisirs,Penc Mi,14000,685
+P00333,HP Maison & Cuisine 0333,Maison & Cuisine,HP,7500,537
+P00334,Adidas Mode Homme 0334,Mode Homme,Adidas,3500,197
+P00335,Teranga Home Maison & Cuisine 0335,Maison & Cuisine,Teranga Home,46000,426
+P00336,Sunu Tech Beauté & Soins 0336,Beauté & Soins,Sunu Tech,8500,435
+P00337,Hisense Téléphonie 0337,Téléphonie,Hisense,28500,590
+P00338,Tecno Maison & Cuisine 0338,Maison & Cuisine,Tecno,79500,341
+P00339,Teranga Home Mode Homme 0339,Mode Homme,Teranga Home,49000,474
+P00340,Sunu Tech Informatique 0340,Informatique,Sunu Tech,587000,332
+P00341,LG Beauté & Soins 0341,Beauté & Soins,LG,9500,76
+P00342,Infinix Beauté & Soins 0342,Beauté & Soins,Infinix,5000,568
+P00343,Nivea Sport & Loisirs 0343,Sport & Loisirs,Nivea,6500,206
+P00344,Penc Mi Mode Femme 0344,Mode Femme,Penc Mi,10500,223
+P00345,Hisense Sport & Loisirs 0345,Sport & Loisirs,Hisense,27000,265
+P00346,Tecno Électroménager 0346,Électroménager,Tecno,43000,453
+P00347,Hisense Maison & Cuisine 0347,Maison & Cuisine,Hisense,15000,566
+P00348,Nivea Enfants & Jouets 0348,Enfants & Jouets,Nivea,12500,651
+P00349,Sunu Tech Beauté & Soins 0349,Beauté & Soins,Sunu Tech,16500,477
+P00350,Penc Mi Maison & Cuisine 0350,Maison & Cuisine,Penc Mi,3500,318
+P00351,Dakar Style Mode Homme 0351,Mode Homme,Dakar Style,40500,757
+P00352,LG Maison & Cuisine 0352,Maison & Cuisine,LG,14500,380
+P00353,Teranga Home Épicerie 0353,Épicerie,Teranga Home,5000,116
+P00354,Itel Épicerie 0354,Épicerie,Itel,20000,641
+P00355,Lenovo Enfants & Jouets 0355,Enfants & Jouets,Lenovo,3500,750
+P00356,Kirène Mode Homme 0356,Mode Homme,Kirène,42500,232
+P00357,Teranga Home Épicerie 0357,Épicerie,Teranga Home,11500,176
+P00358,Kirène Mode Homme 0358,Mode Homme,Kirène,59000,281
+P00359,Dakar Style Épicerie 0359,Épicerie,Dakar Style,2500,274
+P00360,Teranga Home Téléphonie 0360,Téléphonie,Teranga Home,23000,153
+P00361,Infinix Enfants & Jouets 0361,Enfants & Jouets,Infinix,2000,27
+P00362,Royal Électroménager 0362,Électroménager,Royal,296500,150
+P00363,LG Électroménager 0363,Électroménager,LG,32000,237
+P00364,Adidas Beauté & Soins 0364,Beauté & Soins,Adidas,4000,150
+P00365,Itel Beauté & Soins 0365,Beauté & Soins,Itel,38500,159
+P00366,Hisense Informatique 0366,Informatique,Hisense,122000,754
+P00367,Itel Beauté & Soins 0367,Beauté & Soins,Itel,3000,173
+P00368,Royal Épicerie 0368,Épicerie,Royal,9500,657
+P00369,Sunu Tech Mode Femme 0369,Mode Femme,Sunu Tech,7500,457
+P00370,Tecno Beauté & Soins 0370,Beauté & Soins,Tecno,8500,348
+P00371,Teranga Home Épicerie 0371,Épicerie,Teranga Home,1000,624
+P00372,Royal Informatique 0372,Informatique,Royal,130500,13
+P00373,Tecno Mode Homme 0373,Mode Homme,Tecno,4000,595
+P00374,Adidas Épicerie 0374,Épicerie,Adidas,10500,332
+P00375,Infinix Informatique 0375,Informatique,Infinix,92500,663
+P00376,Penc Mi Électroménager 0376,Électroménager,Penc Mi,59000,769
+P00377,HP Électroménager 0377,Électroménager,HP,587500,585
+P00378,Tecno Épicerie 0378,Épicerie,Tecno,13000,91
+P00379,Kirène Informatique 0379,Informatique,Kirène,182000,781
+P00380,Nivea Mode Homme 0380,Mode Homme,Nivea,51000,607
+P00381,Adidas Mode Femme 0381,Mode Femme,Adidas,6000,14
+P00382,Kirène Téléphonie 0382,Téléphonie,Kirène,105500,152
+P00383,Adidas Informatique 0383,Informatique,Adidas,698000,790
+P00384,Penc Mi Mode Homme 0384,Mode Homme,Penc Mi,16500,669
+P00385,Adidas Téléphonie 0385,Téléphonie,Adidas,43000,327
+P00386,Tecno Enfants & Jouets 0386,Enfants & Jouets,Tecno,27500,765
+P00387,Teranga Home Mode Femme 0387,Mode Femme,Teranga Home,4500,382
+P00388,Teranga Home Téléphonie 0388,Téléphonie,Teranga Home,25000,693
+P00389,HP Maison & Cuisine 0389,Maison & Cuisine,HP,42500,461
+P00390,Royal Sport & Loisirs 0390,Sport & Loisirs,Royal,5000,528
+P00391,Samsung Maison & Cuisine 0391,Maison & Cuisine,Samsung,3000,6
+P00392,HP Beauté & Soins 0392,Beauté & Soins,HP,5000,776
+P00393,Adidas Téléphonie 0393,Téléphonie,Adidas,58000,145
+P00394,Lenovo Sport & Loisirs 0394,Sport & Loisirs,Lenovo,17500,170
+P00395,Teranga Home Enfants & Jouets 0395,Enfants & Jouets,Teranga Home,21500,356
+P00396,Samsung Mode Homme 0396,Mode Homme,Samsung,16500,604
+P00397,Dakar Style Informatique 0397,Informatique,Dakar Style,322500,615
+P00398,Adidas Électroménager 0398,Électroménager,Adidas,23500,501
+P00399,Sunu Tech Maison & Cuisine 0399,Maison & Cuisine,Sunu Tech,8500,696
+P00400,Penc Mi Maison & Cuisine 0400,Maison & Cuisine,Penc Mi,105500,554
+P00401,Sunu Tech Épicerie 0401,Épicerie,Sunu Tech,2500,118
+P00402,Penc Mi Mode Femme 0402,Mode Femme,Penc Mi,6000,626
+P00403,Itel Épicerie 0403,Épicerie,Itel,24000,210
+P00404,LG Électroménager 0404,Électroménager,LG,81000,415
+P00405,Royal Beauté & Soins 0405,Beauté & Soins,Royal,7000,485
+P00406,Teranga Home Maison & Cuisine 0406,Maison & Cuisine,Teranga Home,6000,313
+P00407,Kirène Électroménager 0407,Électroménager,Kirène,186500,288
+P00408,Royal Mode Homme 0408,Mode Homme,Royal,5500,214
+P00409,Samsung Épicerie 0409,Épicerie,Samsung,5500,238
+P00410,LG Beauté & Soins 0410,Beauté & Soins,LG,18000,788
+P00411,Royal Maison & Cuisine 0411,Maison & Cuisine,Royal,31000,306
+P00412,Penc Mi Maison & Cuisine 0412,Maison & Cuisine,Penc Mi,3500,378
+P00413,HP Sport & Loisirs 0413,Sport & Loisirs,HP,5000,561
+P00414,Hisense Enfants & Jouets 0414,Enfants & Jouets,Hisense,30000,198
+P00415,Kirène Mode Homme 0415,Mode Homme,Kirène,45000,158
+P00416,Kirène Mode Homme 0416,Mode Homme,Kirène,4500,168
+P00417,Itel Enfants & Jouets 0417,Enfants & Jouets,Itel,6500,49
+P00418,HP Mode Femme 0418,Mode Femme,HP,25500,361
+P00419,Lenovo Enfants & Jouets 0419,Enfants & Jouets,Lenovo,29500,2
+P00420,Royal Épicerie 0420,Épicerie,Royal,17500,302
+P00421,Royal Sport & Loisirs 0421,Sport & Loisirs,Royal,35000,421
+P00422,Penc Mi Sport & Loisirs 0422,Sport & Loisirs,Penc Mi,6500,206
+P00423,Nivea Enfants & Jouets 0423,Enfants & Jouets,Nivea,23500,200
+P00424,Sunu Tech Électroménager 0424,Électroménager,Sunu Tech,371500,480
+P00425,Samsung Mode Femme 0425,Mode Femme,Samsung,9500,449
+P00426,Nivea Beauté & Soins 0426,Beauté & Soins,Nivea,7500,631
+P00427,Itel Informatique 0427,Informatique,Itel,45500,704
+P00428,Nivea Beauté & Soins 0428,Beauté & Soins,Nivea,4000,198
+P00429,Sunu Tech Maison & Cuisine 0429,Maison & Cuisine,Sunu Tech,72500,234
+P00430,Sunu Tech Beauté & Soins 0430,Beauté & Soins,Sunu Tech,2000,419
+P00431,Teranga Home Maison & Cuisine 0431,Maison & Cuisine,Teranga Home,48000,146
+P00432,Hisense Informatique 0432,Informatique,Hisense,35500,582
+P00433,Dakar Style Mode Femme 0433,Mode Femme,Dakar Style,8000,1
+P00434,Hisense Enfants & Jouets 0434,Enfants & Jouets,Hisense,13000,293
+P00435,Tecno Électroménager 0435,Électroménager,Tecno,20000,785
+P00436,HP Mode Femme 0436,Mode Femme,HP,27500,587
+P00437,Dakar Style Maison & Cuisine 0437,Maison & Cuisine,Dakar Style,8500,413
+P00438,Tecno Maison & Cuisine 0438,Maison & Cuisine,Tecno,45500,2
+P00439,Royal Informatique 0439,Informatique,Royal,823500,641
+P00440,Hisense Informatique 0440,Informatique,Hisense,111000,356
+P00441,LG Sport & Loisirs 0441,Sport & Loisirs,LG,4500,686
+P00442,Dakar Style Beauté & Soins 0442,Beauté & Soins,Dakar Style,24500,626
+P00443,Itel Enfants & Jouets 0443,Enfants & Jouets,Itel,5000,796
+P00444,HP Enfants & Jouets 0444,Enfants & Jouets,HP,3000,94
+P00445,Infinix Informatique 0445,Informatique,Infinix,584000,687
+P00446,Samsung Mode Homme 0446,Mode Homme,Samsung,6000,569
+P00447,Samsung Épicerie 0447,Épicerie,Samsung,5500,235
+P00448,Samsung Électroménager 0448,Électroménager,Samsung,47500,675
+P00449,Royal Informatique 0449,Informatique,Royal,321000,451
+P00450,HP Informatique 0450,Informatique,HP,255500,527
+P00451,Lenovo Beauté & Soins 0451,Beauté & Soins,Lenovo,8000,770
+P00452,Penc Mi Mode Homme 0452,Mode Homme,Penc Mi,16000,458
+P00453,Nivea Enfants & Jouets 0453,Enfants & Jouets,Nivea,4000,506
+P00454,Samsung Enfants & Jouets 0454,Enfants & Jouets,Samsung,2000,692
+P00455,Nivea Téléphonie 0455,Téléphonie,Nivea,228500,615
+P00456,Royal Enfants & Jouets 0456,Enfants & Jouets,Royal,35000,512
+P00457,Adidas Téléphonie 0457,Téléphonie,Adidas,211500,725
+P00458,Kirène Sport & Loisirs 0458,Sport & Loisirs,Kirène,36000,728
+P00459,Adidas Enfants & Jouets 0459,Enfants & Jouets,Adidas,9000,490
+P00460,Penc Mi Mode Homme 0460,Mode Homme,Penc Mi,17500,78
+P00461,Nivea Informatique 0461,Informatique,Nivea,298000,553
+P00462,Royal Téléphonie 0462,Téléphonie,Royal,16500,266
+P00463,Infinix Mode Homme 0463,Mode Homme,Infinix,10500,470
+P00464,Teranga Home Enfants & Jouets 0464,Enfants & Jouets,Teranga Home,4000,301
+P00465,Tecno Mode Femme 0465,Mode Femme,Tecno,10000,270
+P00466,Teranga Home Mode Femme 0466,Mode Femme,Teranga Home,35000,779
+P00467,Adidas Téléphonie 0467,Téléphonie,Adidas,51500,199
+P00468,Lenovo Maison & Cuisine 0468,Maison & Cuisine,Lenovo,43500,128
+P00469,LG Informatique 0469,Informatique,LG,813500,506
+P00470,Samsung Maison & Cuisine 0470,Maison & Cuisine,Samsung,89000,515
+P00471,LG Épicerie 0471,Épicerie,LG,12500,784
+P00472,Samsung Sport & Loisirs 0472,Sport & Loisirs,Samsung,57000,45
+P00473,LG Beauté & Soins 0473,Beauté & Soins,LG,5500,732
+P00474,Infinix Maison & Cuisine 0474,Maison & Cuisine,Infinix,42500,671
+P00475,Samsung Mode Homme 0475,Mode Homme,Samsung,22000,167
+P00476,Dakar Style Sport & Loisirs 0476,Sport & Loisirs,Dakar Style,85500,654
+P00477,Infinix Maison & Cuisine 0477,Maison & Cuisine,Infinix,23000,674
+P00478,Lenovo Informatique 0478,Informatique,Lenovo,116500,91
+P00479,Royal Mode Homme 0479,Mode Homme,Royal,37000,16
+P00480,Nivea Sport & Loisirs 0480,Sport & Loisirs,Nivea,41500,528
+P00481,Nivea Mode Femme 0481,Mode Femme,Nivea,4500,471
+P00482,Hisense Électroménager 0482,Électroménager,Hisense,152000,690
+P00483,Adidas Enfants & Jouets 0483,Enfants & Jouets,Adidas,13500,744
+P00484,Royal Épicerie 0484,Épicerie,Royal,6000,83
+P00485,Infinix Sport & Loisirs 0485,Sport & Loisirs,Infinix,75000,767
+P00486,Teranga Home Mode Femme 0486,Mode Femme,Teranga Home,21500,682
+P00487,Kirène Beauté & Soins 0487,Beauté & Soins,Kirène,26000,482
+P00488,LG Enfants & Jouets 0488,Enfants & Jouets,LG,6500,288
+P00489,Lenovo Beauté & Soins 0489,Beauté & Soins,Lenovo,2000,504
+P00490,Dakar Style Épicerie 0490,Épicerie,Dakar Style,2000,451
+P00491,Adidas Épicerie 0491,Épicerie,Adidas,4000,311
+P00492,Penc Mi Épicerie 0492,Épicerie,Penc Mi,13000,62
+P00493,Hisense Maison & Cuisine 0493,Maison & Cuisine,Hisense,29000,578
+P00494,Hisense Mode Homme 0494,Mode Homme,Hisense,11500,244
+P00495,Hisense Mode Homme 0495,Mode Homme,Hisense,12000,196
+P00496,HP Épicerie 0496,Épicerie,HP,24500,300
+P00497,Penc Mi Mode Femme 0497,Mode Femme,Penc Mi,5000,27
+P00498,Penc Mi Électroménager 0498,Électroménager,Penc Mi,40000,313
+P00499,Samsung Informatique 0499,Informatique,Samsung,235000,668
+P00500,Samsung Maison & Cuisine 0500,Maison & Cuisine,Samsung,38000,585
+P00501,Samsung Enfants & Jouets 0501,Enfants & Jouets,Samsung,7000,48
+P00502,Lenovo Mode Homme 0502,Mode Homme,Lenovo,3500,264
+P00503,Samsung Maison & Cuisine 0503,Maison & Cuisine,Samsung,19000,531
+P00504,Adidas Mode Homme 0504,Mode Homme,Adidas,4500,744
+P00505,Teranga Home Mode Homme 0505,Mode Homme,Teranga Home,3500,349
+P00506,Dakar Style Mode Femme 0506,Mode Femme,Dakar Style,9500,790
+P00507,Sunu Tech Mode Homme 0507,Mode Homme,Sunu Tech,4500,34
+P00508,Infinix Épicerie 0508,Épicerie,Infinix,3000,728
+P00509,Dakar Style Enfants & Jouets 0509,Enfants & Jouets,Dakar Style,23000,127
+P00510,Dakar Style Électroménager 0510,Électroménager,Dakar Style,23500,583
+P00511,Hisense Mode Homme 0511,Mode Homme,Hisense,13500,80
+P00512,Dakar Style Téléphonie 0512,Téléphonie,Dakar Style,81500,791
+P00513,Samsung Sport & Loisirs 0513,Sport & Loisirs,Samsung,4000,171
+P00514,Adidas Sport & Loisirs 0514,Sport & Loisirs,Adidas,40000,294
+P00515,Kirène Épicerie 0515,Épicerie,Kirène,500,508
+P00516,LG Beauté & Soins 0516,Beauté & Soins,LG,32000,40
+P00517,Itel Enfants & Jouets 0517,Enfants & Jouets,Itel,15500,456
+P00518,Tecno Informatique 0518,Informatique,Tecno,70000,233
+P00519,HP Mode Homme 0519,Mode Homme,HP,48000,346
+P00520,Kirène Mode Femme 0520,Mode Femme,Kirène,11000,266
+P00521,Kirène Sport & Loisirs 0521,Sport & Loisirs,Kirène,9000,674
+P00522,Adidas Électroménager 0522,Électroménager,Adidas,74000,365
+P00523,HP Mode Homme 0523,Mode Homme,HP,18500,602
+P00524,HP Téléphonie 0524,Téléphonie,HP,176000,33
+P00525,Kirène Enfants & Jouets 0525,Enfants & Jouets,Kirène,17000,546
+P00526,Adidas Mode Femme 0526,Mode Femme,Adidas,62000,306
+P00527,Penc Mi Téléphonie 0527,Téléphonie,Penc Mi,387500,479
+P00528,Lenovo Électroménager 0528,Électroménager,Lenovo,39000,677
+P00529,Kirène Beauté & Soins 0529,Beauté & Soins,Kirène,30000,556
+P00530,Hisense Mode Femme 0530,Mode Femme,Hisense,4500,282
+P00531,Royal Beauté & Soins 0531,Beauté & Soins,Royal,34500,181
+P00532,Kirène Téléphonie 0532,Téléphonie,Kirène,36000,709
+P00533,Lenovo Épicerie 0533,Épicerie,Lenovo,1500,207
+P00534,Penc Mi Épicerie 0534,Épicerie,Penc Mi,2500,28
+P00535,Royal Électroménager 0535,Électroménager,Royal,37000,238
+P00536,Hisense Mode Homme 0536,Mode Homme,Hisense,36000,8
+P00537,Kirène Téléphonie 0537,Téléphonie,Kirène,23000,592
+P00538,Hisense Informatique 0538,Informatique,Hisense,120500,711
+P00539,Dakar Style Épicerie 0539,Épicerie,Dakar Style,17500,345
+P00540,Samsung Informatique 0540,Informatique,Samsung,243500,491
+P00541,Kirène Mode Homme 0541,Mode Homme,Kirène,18500,767
+P00542,Teranga Home Enfants & Jouets 0542,Enfants & Jouets,Teranga Home,49000,740
+P00543,Teranga Home Mode Homme 0543,Mode Homme,Teranga Home,3000,32
+P00544,Kirène Maison & Cuisine 0544,Maison & Cuisine,Kirène,8500,55
+P00545,Dakar Style Informatique 0545,Informatique,Dakar Style,39000,306
+P00546,Dakar Style Épicerie 0546,Épicerie,Dakar Style,1000,223
+P00547,Sunu Tech Enfants & Jouets 0547,Enfants & Jouets,Sunu Tech,4000,123
+P00548,Dakar Style Enfants & Jouets 0548,Enfants & Jouets,Dakar Style,15000,120
+P00549,HP Maison & Cuisine 0549,Maison & Cuisine,HP,7000,653
+P00550,Infinix Enfants & Jouets 0550,Enfants & Jouets,Infinix,17000,155
+P00551,Teranga Home Maison & Cuisine 0551,Maison & Cuisine,Teranga Home,43500,383
+P00552,Infinix Mode Homme 0552,Mode Homme,Infinix,10000,35
+P00553,Sunu Tech Épicerie 0553,Épicerie,Sunu Tech,4000,496
+P00554,Sunu Tech Électroménager 0554,Électroménager,Sunu Tech,31500,593
+P00555,Tecno Épicerie 0555,Épicerie,Tecno,9500,478
+P00556,Penc Mi Enfants & Jouets 0556,Enfants & Jouets,Penc Mi,7500,227
+P00557,Adidas Mode Femme 0557,Mode Femme,Adidas,46500,63
+P00558,LG Électroménager 0558,Électroménager,LG,120000,320
+P00559,Nivea Informatique 0559,Informatique,Nivea,303500,626
+P00560,LG Beauté & Soins 0560,Beauté & Soins,LG,5000,95
+P00561,Kirène Maison & Cuisine 0561,Maison & Cuisine,Kirène,10500,657
+P00562,LG Beauté & Soins 0562,Beauté & Soins,LG,6500,730
+P00563,Infinix Maison & Cuisine 0563,Maison & Cuisine,Infinix,29500,485
+P00564,LG Téléphonie 0564,Téléphonie,LG,84000,675
+P00565,Nivea Téléphonie 0565,Téléphonie,Nivea,231500,224
+P00566,Hisense Électroménager 0566,Électroménager,Hisense,24000,497
+P00567,Nivea Épicerie 0567,Épicerie,Nivea,17000,579
+P00568,Teranga Home Beauté & Soins 0568,Beauté & Soins,Teranga Home,31500,571
+P00569,LG Mode Homme 0569,Mode Homme,LG,6000,560
+P00570,Kirène Maison & Cuisine 0570,Maison & Cuisine,Kirène,3500,155
+P00571,Teranga Home Mode Femme 0571,Mode Femme,Teranga Home,19500,730
+P00572,Kirène Informatique 0572,Informatique,Kirène,31500,545
+P00573,Nivea Beauté & Soins 0573,Beauté & Soins,Nivea,3000,93
+P00574,Teranga Home Maison & Cuisine 0574,Maison & Cuisine,Teranga Home,18000,511
+P00575,LG Enfants & Jouets 0575,Enfants & Jouets,LG,14500,727
+P00576,HP Mode Homme 0576,Mode Homme,HP,5500,19
+P00577,Kirène Informatique 0577,Informatique,Kirène,707000,709
+P00578,Sunu Tech Épicerie 0578,Épicerie,Sunu Tech,1000,264
+P00579,Infinix Mode Homme 0579,Mode Homme,Infinix,5000,238
+P00580,Lenovo Informatique 0580,Informatique,Lenovo,44500,390
+P00581,HP Beauté & Soins 0581,Beauté & Soins,HP,31500,572
+P00582,Kirène Téléphonie 0582,Téléphonie,Kirène,298000,82
+P00583,HP Enfants & Jouets 0583,Enfants & Jouets,HP,2000,210
+P00584,Royal Sport & Loisirs 0584,Sport & Loisirs,Royal,38500,645
+P00585,Sunu Tech Mode Femme 0585,Mode Femme,Sunu Tech,4000,188
+P00586,Sunu Tech Beauté & Soins 0586,Beauté & Soins,Sunu Tech,2000,279
+P00587,Sunu Tech Mode Homme 0587,Mode Homme,Sunu Tech,4000,513
+P00588,Nivea Mode Femme 0588,Mode Femme,Nivea,45500,200
+P00589,Adidas Enfants & Jouets 0589,Enfants & Jouets,Adidas,8000,40
+P00590,Dakar Style Sport & Loisirs 0590,Sport & Loisirs,Dakar Style,22500,422
+P00591,Lenovo Maison & Cuisine 0591,Maison & Cuisine,Lenovo,3000,77
+P00592,Nivea Enfants & Jouets 0592,Enfants & Jouets,Nivea,36500,309
+P00593,Hisense Informatique 0593,Informatique,Hisense,844000,528
+P00594,Penc Mi Enfants & Jouets 0594,Enfants & Jouets,Penc Mi,4500,591
+P00595,Adidas Informatique 0595,Informatique,Adidas,263000,761
+P00596,Hisense Électroménager 0596,Électroménager,Hisense,201000,697
+P00597,Nivea Maison & Cuisine 0597,Maison & Cuisine,Nivea,105500,27
+P00598,Infinix Informatique 0598,Informatique,Infinix,141500,389
+P00599,HP Mode Femme 0599,Mode Femme,HP,6500,18
+P00600,Penc Mi Mode Homme 0600,Mode Homme,Penc Mi,9000,640
+P00601,Infinix Téléphonie 0601,Téléphonie,Infinix,132000,59
+P00602,Royal Informatique 0602,Informatique,Royal,136000,621
+P00603,Sunu Tech Mode Femme 0603,Mode Femme,Sunu Tech,4000,1
+P00604,Royal Téléphonie 0604,Téléphonie,Royal,233500,88
+P00605,Royal Enfants & Jouets 0605,Enfants & Jouets,Royal,32500,742
+P00606,Dakar Style Mode Femme 0606,Mode Femme,Dakar Style,14500,148
+P00607,Infinix Sport & Loisirs 0607,Sport & Loisirs,Infinix,20500,379
+P00608,Infinix Électroménager 0608,Électroménager,Infinix,106500,416
+P00609,Teranga Home Beauté & Soins 0609,Beauté & Soins,Teranga Home,8500,553
+P00610,LG Informatique 0610,Informatique,LG,36000,748
+P00611,LG Informatique 0611,Informatique,LG,118500,333
+P00612,Infinix Maison & Cuisine 0612,Maison & Cuisine,Infinix,14000,482
+P00613,Dakar Style Mode Homme 0613,Mode Homme,Dakar Style,59500,797
+P00614,Tecno Enfants & Jouets 0614,Enfants & Jouets,Tecno,2500,86
+P00615,Infinix Enfants & Jouets 0615,Enfants & Jouets,Infinix,5500,383
+P00616,Itel Informatique 0616,Informatique,Itel,148000,242
+P00617,Sunu Tech Maison & Cuisine 0617,Maison & Cuisine,Sunu Tech,66500,751
+P00618,Teranga Home Sport & Loisirs 0618,Sport & Loisirs,Teranga Home,17000,491
+P00619,Samsung Électroménager 0619,Électroménager,Samsung,54000,519
+P00620,Infinix Épicerie 0620,Épicerie,Infinix,4000,149
+P00621,Teranga Home Sport & Loisirs 0621,Sport & Loisirs,Teranga Home,10000,758
+P00622,Royal Mode Homme 0622,Mode Homme,Royal,15500,53
+P00623,Dakar Style Téléphonie 0623,Téléphonie,Dakar Style,156500,396
+P00624,Adidas Mode Femme 0624,Mode Femme,Adidas,17000,559
+P00625,Itel Mode Homme 0625,Mode Homme,Itel,18500,703
+P00626,Dakar Style Beauté & Soins 0626,Beauté & Soins,Dakar Style,1500,218
+P00627,Infinix Électroménager 0627,Électroménager,Infinix,188000,267
+P00628,Tecno Mode Homme 0628,Mode Homme,Tecno,55000,30
+P00629,Kirène Épicerie 0629,Épicerie,Kirène,3500,528
+P00630,LG Épicerie 0630,Épicerie,LG,11500,157
+P00631,Tecno Sport & Loisirs 0631,Sport & Loisirs,Tecno,22000,493
+P00632,LG Mode Homme 0632,Mode Homme,LG,24500,67
