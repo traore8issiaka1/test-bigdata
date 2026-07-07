@@ -4,7 +4,17 @@ data_sample/
 stream_out/
 *.csv
 *.json
-!anomalies_manifest.json.example
+# réinclure des fichiers précis
+!data/
+!data/anomalies_manifest.json
+!data/customers.csv
+!data/events.json
+!data/generate_data.py
+!data/orders.csv
+!data/order_items.csv
+!data/payments.json
+!data/pg_init.sql
+!data/products.csv
 *.parquet
 *.db
 
