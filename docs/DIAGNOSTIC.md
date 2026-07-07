@@ -3,7 +3,7 @@
 > **Livrable de la séance 1** — Big Data Engineering — ISI
 > Auteur : <Issiaka Traoré> — Date : <JJ/MM/AAAA>  
 > Longueur attendue : 1 à 2 pages. Toute affirmation doit s'appuyer sur une  
-> **mesure** issue de votre notebook ([notebooks/TP1_exploration.ipynb](../notebooks/TP1_exploration.ipynb)).
+> **mesure** issue de mon notebook ((../notebooks/TP1_exploration.ipynb)et (../notebooks/TP1_exploration(Colab).ipynb)).
 
 ## Extrapolation
 
