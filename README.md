@@ -1,22 +1,30 @@
-# TP1 — Big Data Engineering — Analyse des limites du traitement local
+# Big Data Engineering — Travaux Pratiques
 
-> Master 1 — DMI / FST / UCAD — Prof. Samba Ndiaye  
+> Master 1 — DMI / FST / UCAD / ISI — Prof. Samba Ndiaye  
 > Étudiant : Issiaka Traoré
 
-Ce dépôt contient le travail réalisé dans le cadre du TP 1 sur l’environnement Python, la génération de données synthétiques, l’exploration avec Pandas et l’analyse des limites du traitement local.
+Ce dépôt contient les travaux réalisés dans le cadre du module Big Data Engineering, couvrant l'analyse des limites du traitement local, l'introduction à PySpark et le nettoyage de données à grande échelle.
 
-## Objectif du projet
+## Objectifs des TPs
 
-L’objectif de ce TP est de montrer que, au-delà d’un certain volume de données, un traitement local avec Pandas devient coûteux en mémoire, en temps et en stabilité. Le projet analyse notamment la charge de fichiers comme `orders.csv`, `orders+items` et `events.json` à différentes échelles.
+### TP 1 — Analyse des limites du traitement local
+L’objectif est de montrer que, au-delà d’un certain volume de données, un traitement local avec Pandas devient coûteux en mémoire, en temps et en stabilité. Analyse des fichiers `orders.csv` et `events.json`.
 
-## Contenu du dépôt
+### TP 2 — Premiers pas avec PySpark
+Introduction à l'écosystème Spark :
+- Mise en place de l'environnement Spark local.
+- Implémentation d'un WordCount avec Spark SQL/DataFrames.
+- Exploration des données du fil rouge avec Spark.
+- Analyse des performances et utilisation de la Spark UI (Jobs, Stages, Shuffles).
+- Comparaison des performances Spark vs Pandas.
 
-- [notebooks/TP1_exploration.ipynb](notebooks/TP1_exploration.ipynb) : notebook principal d’exploration et de mesures.
-- [notebooks/TP1_exploration(Colab).ipynb](notebooks/TP1_exploration(Colab).ipynb) : version du notebook adaptée à Google Colab.
-- [docs/DIAGNOSTIC.md](docs/DIAGNOSTIC.md) : rapport de diagnostic sur les limites du traitement local.
-- [data/](data/) : données générées localement à partir du script fourni.
-- [requirements.txt](requirements.txt) : dépendances Python nécessaires.
-- [check_env.py](check_env.py) : vérification de l’environnement.
+### TP 3 — Nettoyage et tests (Module de transformations)
+Industrialisation du traitement de données avec PySpark :
+- Création d'un module de transformations robuste (`src/transformations.py`).
+- Nettoyage des données clients (emails, téléphones, villes, dates de naissance).
+- Diagnostic de qualité avant/après traitement.
+- Mise en place de tests unitaires avec `pytest` et `chispa`.
+- Gestion des doublons et normalisation.
 
 ## Structure du dépôt
 
@@ -25,55 +33,67 @@ L’objectif de ce TP est de montrer que, au-delà d’un certain volume de donn
 ├── README.md
 ├── check_env.py
 ├── requirements.txt
-├── data/
+├── data/                   # Données (exclues du versionnement)
 ├── docs/
-│   └── DIAGNOSTIC.md
+│   ├── DIAGNOSTIC.md        # Rapport TP1
+│   └── QUALITE.md           # Rapport TP3
 ├── notebooks/
-│   └── TP1_exploration.ipynb
-└── src/
+│   ├── TP1_exploration.ipynb
+│   ├── TP1_exploration(Colab).ipynb # Version Google Colab
+│   ├── TP2_wordcount.ipynb
+│   └── TP3_Nettoyage.ipynb
+├── src/
+│   └── transformations.py   # Module de nettoyage (TP3)
+└── tests/
+    └── test_transformations.py
 ```
 
 ## Prérequis
 
 - Python 3.9 ou plus
+- **Java JDK 17** (requis pour Spark)
 - Pip
 - Un environnement virtuel Python
 
 ## Installation sur Windows (PowerShell)
 
 ```powershell
+# Création et activation de l'environnement
 py -m venv venv-bigdata
 .\venv-bigdata\Scripts\Activate.ps1
+
+# Installation des dépendances
 pip install -r requirements.txt
-```
-
-## Génération des données
-
-Les données sont générées de manière déterministe avec une graine fixe. Elles ne sont pas versionnées et peuvent être régénérées à tout moment.
-
-```powershell
-python .\data\generate_data.py --scale 0.1 --outdir .\data
 ```
 
 ## Utilisation
 
-1. Vérifier l’environnement :
+1. **Génération des données** :
+   ```powershell
+   python .\data\generate_data.py --scale 0.1 --outdir .\data
+   ```
+
+2. **Vérifier l’environnement** :
    ```powershell
    python .\check_env.py
    ```
-2. Ouvrir le notebook :
+
+3. **Lancement des notebooks** :
    ```powershell
-   jupyter notebook .\notebooks\TP1_exploration.ipynb
+   jupyter notebook
    ```
-3. Consulter le rapport final :
-   - [docs/DIAGNOSTIC.md](docs/DIAGNOSTIC.md)
 
-## Livrables
+4. **Exécution des tests (TP3)** :
+   ```powershell
+   pytest
+   ```
 
-- Notebook d’exploration complété
-- Rapport de diagnostic final
-- Analyse des limites mémoire, temps et scalabilité locale
+## Livrables principaux
+
+- **TP1** : Notebooks d'exploration (Local et Colab) et rapport `DIAGNOSTIC.md`.
+- **TP2** : Notebook WordCount avec analyse Spark UI.
+- **TP3** : Module `transformations.py`, tests unitaires et rapport `QUALITE.md`.
 
 ## Notes
 
-Le dossier [data/](data/) est exclu du versionnement et contient les jeux de données générés localement.
+Le dossier [data/](data/) contient les jeux de données générés localement et n'est pas versionné.
