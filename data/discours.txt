@@ -1,0 +1,7 @@
+Bonjour et bienvenue dans ce cours de big data.
+Nous apprenons Spark et Python pour analyser de grands volumes de donnees.
+Spark permet de traiter rapidement de nombreuses lignes de texte.
+Python rend le code simple et lisible.
+Avec Spark nous pouvons compter les mots, analyser les donnees et comprendre les tendances.
+Le big data est important pour les entreprises modernes.
+Spark est puissant, Python est pratique, et l'analyse de donnees est essentielle.

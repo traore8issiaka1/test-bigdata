@@ -26,25 +26,52 @@ Industrialisation du traitement de données avec PySpark :
 - Mise en place de tests unitaires avec `pytest` et `chispa`.
 - Gestion des doublons et normalisation.
 
+### TP (Optionnel/Avancé) — PySpark et MySQL : Fédération de bases de données
+Fédération de sources hétérogènes (`notebooks/TP_pyspark_mysql_OK.ipynb`) :
+- Configuration de la connexion JDBC vers MySQL.
+- Lecture et écriture de DataFrames PySpark dans des bases relationnelles.
+- Jointure de données issues de bases différentes (`ecommerce_crm` et `ecommerce_ventes`) et de fichiers plats (CSV).
+- Mise en place d'un audit d'intégrité référentielle inter-bases.
+
+### TP 4 — Spark SQL : Requêtage e-commerce
+Exploration approfondie des données avec Spark SQL :
+- Chargement de sources multiples (CSV, JSON) et création de vues temporaires.
+- Analyse de la pollution de données (cas du suffixe "FCFA").
+- Calcul d'indicateurs métier (CA par région, par canal, évolution mensuelle).
+- Optimisation et analyse de plans d'exécution avec `explain()`.
+
+### TP 5 — Jointures, Audit et Entonnoir de conversion
+Techniques avancées de manipulation de données :
+- Jointures multi-tables contrôlées (Comptage avant/après).
+- Audit référentiel pour identifier les données orphelines.
+- Analyse comportementale : construction d'un entonnoir de conversion (Sessions -> Views -> Add to Cart -> Purchase).
+- Calcul des taux de conversion étape par étape.
+
 ## Structure du dépôt
 
 ```text
 .
 ├── README.md
-├── check_env.py
-├── requirements.txt
+├── check_env.py            # Script de vérification de l'environnement
+├── requirements.txt        # Dépendances Python
+├── init_tp3.sql            # Script d'initialisation SQL
 ├── data/                   # Données (exclues du versionnement)
+│   └── generate_data.py    # Générateur de données synthétiques
 ├── docs/
 │   ├── DIAGNOSTIC.md        # Rapport TP1
 │   └── QUALITE.md           # Rapport TP3
 ├── notebooks/
 │   ├── TP1_exploration.ipynb
-│   ├── TP1_exploration(Colab).ipynb # Version Google Colab
+│   ├── TP1_exploration(Colab).ipynb
 │   ├── TP2_wordcount.ipynb
-│   └── TP3_Nettoyage.ipynb
+│   ├── TP3_Nettoyage.ipynb
+│   ├── TP4_spark_sql.ipynb
+│   ├── TP5_jointures.ipynb
+│   └── TP_pyspark_mysql_OK.ipynb
 ├── src/
 │   └── transformations.py   # Module de nettoyage (TP3)
 └── tests/
+    ├── conftest.py
     └── test_transformations.py
 ```
 
@@ -93,6 +120,8 @@ pip install -r requirements.txt
 - **TP1** : Notebooks d'exploration (Local et Colab) et rapport `DIAGNOSTIC.md`.
 - **TP2** : Notebook WordCount avec analyse Spark UI.
 - **TP3** : Module `transformations.py`, tests unitaires et rapport `QUALITE.md`.
+- **TP4** : Notebook `TP4_spark_sql.ipynb` avec analyses SQL et indicateurs.
+- **TP5** : Notebook `TP5_jointures.ipynb` avec audit et entonnoir de conversion.
 
 ## Notes
 
